@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PopupLogin", "..\..\Websites\Effects\PopupLogin\", "{7D271A84-EF6E-4226-AA8F-85ECD271071D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/PopupLogin"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Websites\Effects\PopupLogin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PopupLogin\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PopupLogin"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Websites\Effects\PopupLogin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PopupLogin\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56758"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D271A84-EF6E-4226-AA8F-85ECD271071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D271A84-EF6E-4226-AA8F-85ECD271071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
